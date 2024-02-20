@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aldrian Barias\\source\\repos\\CarConsoleApp\\CarConsoleApp - Synchronous\\CarConsoleApp - Synchronous\\CarConsoleApp - Synchronous.csproj": {}
+    "C:\\Users\\Aldrian Barias\\source\\repos\\CarConsoleApp\\CarConsoleApp - Aynchronous\\CarConsoleApp - Aynchronous\\CarConsoleApp - Aynchronous.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aldrian Barias\\source\\repos\\CarConsoleApp\\CarConsoleApp - Synchronous\\CarConsoleApp - Synchronous\\CarConsoleApp - Synchronous.csproj": {
+    "C:\\Users\\Aldrian Barias\\source\\repos\\CarConsoleApp\\CarConsoleApp - Aynchronous\\CarConsoleApp - Aynchronous\\CarConsoleApp - Aynchronous.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aldrian Barias\\source\\repos\\CarConsoleApp\\CarConsoleApp - Synchronous\\CarConsoleApp - Synchronous\\CarConsoleApp - Synchronous.csproj",
-        "projectName": "CarConsoleApp - Synchronous",
-        "projectPath": "C:\\Users\\Aldrian Barias\\source\\repos\\CarConsoleApp\\CarConsoleApp - Synchronous\\CarConsoleApp - Synchronous\\CarConsoleApp - Synchronous.csproj",
+        "projectUniqueName": "C:\\Users\\Aldrian Barias\\source\\repos\\CarConsoleApp\\CarConsoleApp - Aynchronous\\CarConsoleApp - Aynchronous\\CarConsoleApp - Aynchronous.csproj",
+        "projectName": "CarConsoleApp - Aynchronous",
+        "projectPath": "C:\\Users\\Aldrian Barias\\source\\repos\\CarConsoleApp\\CarConsoleApp - Aynchronous\\CarConsoleApp - Aynchronous\\CarConsoleApp - Aynchronous.csproj",
         "packagesPath": "C:\\Users\\Aldrian Barias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aldrian Barias\\source\\repos\\CarConsoleApp\\CarConsoleApp - Synchronous\\CarConsoleApp - Synchronous\\obj\\",
+        "outputPath": "C:\\Users\\Aldrian Barias\\source\\repos\\CarConsoleApp\\CarConsoleApp - Aynchronous\\CarConsoleApp - Aynchronous\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aldrian Barias\\AppData\\Roaming\\NuGet\\NuGet.Config",
