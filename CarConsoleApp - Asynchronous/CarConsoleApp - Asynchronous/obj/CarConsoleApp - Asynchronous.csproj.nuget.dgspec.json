@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aldrian Barias\\source\\repos\\CarConsoleApp\\CarConsoleApp - Aynchronous\\CarConsoleApp - Aynchronous\\CarConsoleApp - Asynchronous.csproj": {}
+    "C:\\Users\\Aldrian Barias\\source\\repos\\CarConsoleApp - Asynchronous\\CarConsoleApp - Asynchronous\\CarConsoleApp - Asynchronous.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aldrian Barias\\source\\repos\\CarConsoleApp\\CarConsoleApp - Aynchronous\\CarConsoleApp - Aynchronous\\CarConsoleApp - Asynchronous.csproj": {
+    "C:\\Users\\Aldrian Barias\\source\\repos\\CarConsoleApp - Asynchronous\\CarConsoleApp - Asynchronous\\CarConsoleApp - Asynchronous.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aldrian Barias\\source\\repos\\CarConsoleApp\\CarConsoleApp - Aynchronous\\CarConsoleApp - Aynchronous\\CarConsoleApp - Asynchronous.csproj",
+        "projectUniqueName": "C:\\Users\\Aldrian Barias\\source\\repos\\CarConsoleApp - Asynchronous\\CarConsoleApp - Asynchronous\\CarConsoleApp - Asynchronous.csproj",
         "projectName": "CarConsoleApp - Asynchronous",
-        "projectPath": "C:\\Users\\Aldrian Barias\\source\\repos\\CarConsoleApp\\CarConsoleApp - Aynchronous\\CarConsoleApp - Aynchronous\\CarConsoleApp - Asynchronous.csproj",
+        "projectPath": "C:\\Users\\Aldrian Barias\\source\\repos\\CarConsoleApp - Asynchronous\\CarConsoleApp - Asynchronous\\CarConsoleApp - Asynchronous.csproj",
         "packagesPath": "C:\\Users\\Aldrian Barias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aldrian Barias\\source\\repos\\CarConsoleApp\\CarConsoleApp - Aynchronous\\CarConsoleApp - Aynchronous\\obj\\",
+        "outputPath": "C:\\Users\\Aldrian Barias\\source\\repos\\CarConsoleApp - Asynchronous\\CarConsoleApp - Asynchronous\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aldrian Barias\\AppData\\Roaming\\NuGet\\NuGet.Config",
